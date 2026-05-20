@@ -9,3 +9,11 @@ Namun, berdasarkan data observasi yang tersedia, ditemukan beberapa permasalahan
 3. Permintaan khusus pelanggan (special request) yang sering tidak terpenuhi.
 4. Proses pembayaran yang kurang efisien dan berpotensi menyebabkan kegagalan transaksi.
 5. Kurangnya komunikasi yang efektif selama proses Check-In dan Check-Out.
+## Tujuan
+Adapun tujuan dari project ini adalah:
+1. Menganalisis faktor-faktor yang memengaruhi tingginya cancellation rate.
+2. Mengidentifikasi pengaruh lead time terhadap proses reservasi hotel.
+3. Menganalisis dampak special request terhadap kepuasan pelanggan.
+4. Mengevaluasi proses pembayaran dalam reservasi hotel.
+5. Mengidentifikasi permasalahan komunikasi dalam layanan pelanggan hotel.
+6. Memberikan rekomendasi strategi bisnis berdasarkan hasil analisis data.
