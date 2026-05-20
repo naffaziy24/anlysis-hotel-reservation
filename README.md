@@ -1,5 +1,5 @@
 # anlysis-hotel-reservation
-## Project Overview
+## Project Overview 
 Project ini berfokus pada analisis proses reservasi hotel berdasarkan dataset reservasi hotel yang terdiri dari 119.390 data observasi dari City Hotel dan Resort Hotel. Data mencakup reservasi yang berhasil maupun reservasi yang dibatalkan dalam periode 1 Juli 2015 hingga 31 Agustus 2017.
 ## Business Problem
 Dalam industri perhotelan, proses reservasi menjadi salah satu aspek penting yang memengaruhi pengalaman dan kepuasan pelanggan. Sistem reservasi yang mudah, cepat, dan efisien dapat meningkatkan loyalitas pelanggan serta memperbesar kemungkinan pelanggan untuk kembali melakukan pemesanan di masa mendatang.
@@ -86,9 +86,8 @@ Kolom tanpa nama (`Unnamed`) yang hanya berisi indeks dihapus agar dataset lebih
 
 ### 9. Menyimpan Dataset Hasil Cleaning
 Dataset yang telah dibersihkan kemudian disimpan kembali ke dalam file CSV baru dengan nama:
-
-```text
 processed_hotel_data.csv
+
 ## Data Extraction
 
 Proses data extraction dilakukan menggunakan DBeaver dan SQL Query pada dataset `processed_hotel_data` untuk memperoleh insight terkait reservasi hotel.
