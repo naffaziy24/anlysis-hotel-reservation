@@ -89,3 +89,24 @@ Dataset yang telah dibersihkan kemudian disimpan kembali ke dalam file CSV baru 
 
 ```text
 processed_hotel_data.csv
+## Data Extraction
+
+Proses data extraction dilakukan menggunakan DBeaver dan SQL Query pada dataset `processed_hotel_data` untuk memperoleh insight terkait reservasi hotel.
+
+Beberapa analisis yang dilakukan meliputi:
+
+- Menghitung cancellation rate berdasarkan jenis hotel dan tahun reservasi
+- Menganalisis hubungan lead time dengan special request pelanggan
+- Mengidentifikasi tanggal dengan average daily rate (ADR) tertinggi
+- Menganalisis hubungan antara lead time dan rata-rata ADR hotel
+
+SQL digunakan untuk:
+- Data filtering
+- Aggregation
+- Grouping
+- Common Table Expression (CTE)
+- Business insight analysis
+
+Tools yang digunakan:
+- DBeaver
+- PostgreSQL / SQL
